@@ -1,5 +1,5 @@
 # Design-Patterns
-Implementations in C++ of various Design Patterns, operator overloading, vector data structure (from the STL library), iterator and functions from the algorithms library in C++.
+Implementations in C++ of various Design Patterns, operator overloading, vector data structure (from the STL library), iterator and functions from the algorithms library in C++. Use of inheritance, polymorphism, lambda expressions, interfaces & abstract classes and keeping open / closed principles.
 Each file is a stand-alone implementation.
 
 ## Briefings:
