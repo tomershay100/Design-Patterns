@@ -16,4 +16,4 @@ Each file is a stand-alone implementation.
 * Point class that combines flyweight and singleton design patterns.
 
 
-and more (total 20 classes).
+and more (total 18 classes).
